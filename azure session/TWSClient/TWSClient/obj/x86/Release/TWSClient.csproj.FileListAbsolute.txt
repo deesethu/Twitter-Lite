@@ -1,0 +1,26 @@
+C:\Users\administrator\AppData\Local\Temporary Projects\TWSClient\obj\x86\Release\TWSClient.csprojResolveAssemblyReference.cache
+C:\Users\administrator\Desktop\MRND23\TWSClient\TWSClient\bin\Release\TWSClient.exe.config
+C:\Users\administrator\Desktop\MRND23\TWSClient\TWSClient\bin\Release\TWSClient.exe
+C:\Users\administrator\Desktop\MRND23\TWSClient\TWSClient\bin\Release\TWSClient.pdb
+C:\Users\administrator\Desktop\MRND23\TWSClient\TWSClient\bin\Release\TweetLevel1.dll
+C:\Users\administrator\Desktop\MRND23\TWSClient\TWSClient\bin\Release\TweetLevel1.pdb
+C:\Users\administrator\Desktop\MRND23\TWSClient\TWSClient\obj\x86\Release\TWSClient.csprojResolveAssemblyReference.cache
+C:\Users\administrator\Desktop\MRND23\TWSClient\TWSClient\obj\x86\Release\TWSClient.exe
+C:\Users\administrator\Desktop\MRND23\TWSClient\TWSClient\obj\x86\Release\TWSClient.pdb
+C:\Users\MRND23\Desktop\tweet with automatic file creation\TWSClient\TWSClient\bin\Release\TWSClient.exe.config
+C:\Users\MRND23\Desktop\tweet with automatic file creation\TWSClient\TWSClient\obj\x86\Release\TWSClient.exe
+C:\Users\MRND23\Desktop\tweet with automatic file creation\TWSClient\TWSClient\obj\x86\Release\TWSClient.pdb
+C:\Users\MRND23\Desktop\tweet with automatic file creation\TWSClient\TWSClient\bin\Release\TWSClient.exe
+C:\Users\MRND23\Desktop\tweet with automatic file creation\TWSClient\TWSClient\bin\Release\TWSClient.pdb
+C:\Users\MRND23\Desktop\tweet with automatic file creation\TWSClient\TWSClient\bin\Release\TweetLevel1.dll
+C:\Users\MRND23\Desktop\tweet with automatic file creation\TWSClient\TWSClient\bin\Release\TweetLevel1.pdb
+C:\Users\MRND23\Desktop\tweet with automatic file creation\TWSClient\TWSClient\obj\x86\Release\TWSClient.csprojResolveAssemblyReference.cache
+C:\Users\MRND23\Desktop\tweet With Azure dev Fabric\TWSClient\TWSClient\bin\Release\TWSClient.exe.config
+C:\Users\MRND23\Desktop\tweet With Azure dev Fabric\TWSClient\TWSClient\obj\x86\Release\TWSClient.exe
+C:\Users\MRND23\Desktop\tweet With Azure dev Fabric\TWSClient\TWSClient\obj\x86\Release\TWSClient.pdb
+C:\Users\MRND23\Desktop\tweet With Azure dev Fabric\TWSClient\TWSClient\bin\Release\TWSClient.exe
+C:\Users\MRND23\Desktop\tweet With Azure dev Fabric\TWSClient\TWSClient\bin\Release\TWSClient.pdb
+C:\Users\MRND23\Desktop\tweet With Azure dev Fabric\TWSClient\TWSClient\obj\x86\Release\TWSClient.csprojResolveAssemblyReference.cache
+C:\Users\MRND23\Desktop\azure session\TWSClient\TWSClient\bin\Release\TWSClient.exe.config
+C:\Users\MRND23\Desktop\azure session\TWSClient\TWSClient\obj\x86\Release\TWSClient.exe
+C:\Users\MRND23\Desktop\azure session\TWSClient\TWSClient\obj\x86\Release\TWSClient.pdb

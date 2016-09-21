@@ -1,0 +1,1 @@
+A Client Server Application deployed in Windows Azure, This enables users to publish tweets - add comments and retweet.

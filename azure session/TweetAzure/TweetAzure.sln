@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Web Developer Express 2010
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "TweetAzure", "TweetAzure\TweetAzure.ccproj", "{C96DF938-6F81-41EC-9B46-97AFF6436BEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFServiceWebRole1", "WCFServiceWebRole1\WCFServiceWebRole1.csproj", "{6A5012F0-D41E-4FEA-92A6-DBBFAC96C7F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C96DF938-6F81-41EC-9B46-97AFF6436BEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C96DF938-6F81-41EC-9B46-97AFF6436BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C96DF938-6F81-41EC-9B46-97AFF6436BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C96DF938-6F81-41EC-9B46-97AFF6436BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A5012F0-D41E-4FEA-92A6-DBBFAC96C7F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A5012F0-D41E-4FEA-92A6-DBBFAC96C7F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A5012F0-D41E-4FEA-92A6-DBBFAC96C7F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A5012F0-D41E-4FEA-92A6-DBBFAC96C7F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\Users\MRND23\Desktop\tweet With Azure dev Fabric\TweetAzure\TweetAzure\bin\Release\ServiceConfiguration.cscfg
+C:\Users\MRND23\Desktop\tweet With Azure dev Fabric\TweetAzure\TweetAzure\obj\Release\WCFServiceWebRole1\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\MRND23\Desktop\tweet With Azure dev Fabric\TweetAzure\TweetAzure\obj\Release\WCFServiceWebRole1\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\MRND23\Desktop\tweet With Azure dev Fabric\TweetAzure\TweetAzure\obj\Release\WCFServiceWebRole1\bin\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Users\MRND23\Desktop\tweet With Azure dev Fabric\TweetAzure\TweetAzure\obj\Release\WCFServiceWebRole1\bin\Microsoft.WindowsAzure.StorageClient.dll
+C:\Users\MRND23\Desktop\tweet With Azure dev Fabric\TweetAzure\TweetAzure\obj\Release\WCFServiceWebRole1\bin\WCFServiceWebRole1.dll
+C:\Users\MRND23\Desktop\tweet With Azure dev Fabric\TweetAzure\TweetAzure\obj\Release\WCFServiceWebRole1\packages.config
+C:\Users\MRND23\Desktop\tweet With Azure dev Fabric\TweetAzure\TweetAzure\obj\Release\WCFServiceWebRole1\Service1.svc
+C:\Users\MRND23\Desktop\tweet With Azure dev Fabric\TweetAzure\TweetAzure\obj\Release\WCFServiceWebRole1\Web.config

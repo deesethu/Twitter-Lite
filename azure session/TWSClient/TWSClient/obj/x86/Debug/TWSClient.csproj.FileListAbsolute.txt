@@ -1,0 +1,16 @@
+C:\Users\administrator\Desktop\MRND23\TWSClient\TWSClient\bin\Debug\TWSClient.exe.config
+C:\Users\administrator\Desktop\MRND23\TWSClient\TWSClient\bin\Debug\TWSClient.exe
+C:\Users\administrator\Desktop\MRND23\TWSClient\TWSClient\bin\Debug\TWSClient.pdb
+C:\Users\administrator\Desktop\MRND23\TWSClient\TWSClient\bin\Debug\TweetLevel1.dll
+C:\Users\administrator\Desktop\MRND23\TWSClient\TWSClient\bin\Debug\TweetLevel1.pdb
+C:\Users\administrator\Desktop\MRND23\TWSClient\TWSClient\obj\x86\Debug\TWSClient.csprojResolveAssemblyReference.cache
+C:\Users\administrator\Desktop\MRND23\TWSClient\TWSClient\obj\x86\Debug\TWSClient.exe
+C:\Users\administrator\Desktop\MRND23\TWSClient\TWSClient\obj\x86\Debug\TWSClient.pdb
+C:\Users\MRND23\Desktop\tweet with automatic file creation\TWSClient\TWSClient\bin\Debug\TWSClient.exe.config
+C:\Users\MRND23\Desktop\tweet with automatic file creation\TWSClient\TWSClient\bin\Debug\TWSClient.exe
+C:\Users\MRND23\Desktop\tweet with automatic file creation\TWSClient\TWSClient\bin\Debug\TWSClient.pdb
+C:\Users\MRND23\Desktop\tweet with automatic file creation\TWSClient\TWSClient\bin\Debug\TweetLevel1.dll
+C:\Users\MRND23\Desktop\tweet with automatic file creation\TWSClient\TWSClient\bin\Debug\TweetLevel1.pdb
+C:\Users\MRND23\Desktop\tweet with automatic file creation\TWSClient\TWSClient\obj\x86\Debug\TWSClient.csprojResolveAssemblyReference.cache
+C:\Users\MRND23\Desktop\tweet with automatic file creation\TWSClient\TWSClient\obj\x86\Debug\TWSClient.exe
+C:\Users\MRND23\Desktop\tweet with automatic file creation\TWSClient\TWSClient\obj\x86\Debug\TWSClient.pdb

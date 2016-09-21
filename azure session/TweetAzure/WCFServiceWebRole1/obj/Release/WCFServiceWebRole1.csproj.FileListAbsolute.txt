@@ -1,0 +1,9 @@
+C:\Users\MRND23\Desktop\tweet With Azure dev Fabric\TweetAzure\WCFServiceWebRole1\bin\WCFServiceWebRole1.dll
+C:\Users\MRND23\Desktop\tweet With Azure dev Fabric\TweetAzure\WCFServiceWebRole1\bin\WCFServiceWebRole1.pdb
+C:\Users\MRND23\Desktop\tweet With Azure dev Fabric\TweetAzure\WCFServiceWebRole1\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\MRND23\Desktop\tweet With Azure dev Fabric\TweetAzure\WCFServiceWebRole1\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\MRND23\Desktop\tweet With Azure dev Fabric\TweetAzure\WCFServiceWebRole1\bin\Microsoft.WindowsAzure.StorageClient.dll
+C:\Users\MRND23\Desktop\tweet With Azure dev Fabric\TweetAzure\WCFServiceWebRole1\bin\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Users\MRND23\Desktop\tweet With Azure dev Fabric\TweetAzure\WCFServiceWebRole1\obj\Release\WCFServiceWebRole1.csprojResolveAssemblyReference.cache
+C:\Users\MRND23\Desktop\tweet With Azure dev Fabric\TweetAzure\WCFServiceWebRole1\obj\Release\WCFServiceWebRole1.dll
+C:\Users\MRND23\Desktop\tweet With Azure dev Fabric\TweetAzure\WCFServiceWebRole1\obj\Release\WCFServiceWebRole1.pdb
